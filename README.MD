@@ -16,11 +16,17 @@ This course is designed to take you from beginner to advanced levels in PHP, cov
 
 This repository is structured to make learning intuitive and effective:
 
-- **Lecture Directories**: Each lecture has its own directory containing:
+- **Lectures**: A single directory created under the root, containing 14 subdirectories, each corresponding to one of the 14 lectures in the course. Each lecture folder includes:
   - **Source Code**: Practice the code concepts explained in the lecture.
   - **Guide File**: A `.MD` file detailing the topics, definitions, examples, and notes.
 
-- **Projects Directory (Upcoming)**: Real-world project files and documentation to help you implement your skills in practical scenarios.
+- **Projects**: A new directory added under the root to contain all the real-world project files and documentation. This folder includes:
+  - **README.md**: The file includes details of each project, along with the upload date for each project:
+    - **Project 1**: Blog Application (Uploaded on Friday, 13th December 2024)
+    - **Project 2**: User Authentication System (Uploaded on Monday, 16th December 2024)
+    - **Project 3**: E-Commerce Store (Uploaded on Friday, 20th December 2024)
+
+- **README.md**: The documentation file for the repository that outlines the structure and includes important information about the course and projects.
 
 ## Course Outline
 
